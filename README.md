@@ -5,7 +5,7 @@
 ###
 
 <p align="left"> ✨ My name is Camilla and I'm from Lanciano, a small town located in central Italy. </p>
-<p align="left"> 📚 I'm a passionate and graduate in economics, currently training to become a data analyst.</p>
+<p align="left"> 📚 I'm a passionate and graduate in economics, currently training to become a data analyst! </p>
 
 ###
 
